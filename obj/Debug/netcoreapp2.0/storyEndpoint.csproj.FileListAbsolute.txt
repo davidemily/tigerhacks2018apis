@@ -1,0 +1,10 @@
+/var/www/html/storyEndpoint/bin/Debug/netcoreapp2.0/storyEndpoint.deps.json
+/var/www/html/storyEndpoint/bin/Debug/netcoreapp2.0/storyEndpoint.runtimeconfig.json
+/var/www/html/storyEndpoint/bin/Debug/netcoreapp2.0/storyEndpoint.runtimeconfig.dev.json
+/var/www/html/storyEndpoint/bin/Debug/netcoreapp2.0/storyEndpoint.dll
+/var/www/html/storyEndpoint/bin/Debug/netcoreapp2.0/storyEndpoint.pdb
+/var/www/html/storyEndpoint/obj/Debug/netcoreapp2.0/storyEndpoint.csproj.CoreCompileInputs.cache
+/var/www/html/storyEndpoint/obj/Debug/netcoreapp2.0/storyEndpoint.AssemblyInfoInputs.cache
+/var/www/html/storyEndpoint/obj/Debug/netcoreapp2.0/storyEndpoint.AssemblyInfo.cs
+/var/www/html/storyEndpoint/obj/Debug/netcoreapp2.0/storyEndpoint.dll
+/var/www/html/storyEndpoint/obj/Debug/netcoreapp2.0/storyEndpoint.pdb
